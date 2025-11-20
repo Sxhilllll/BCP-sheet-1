@@ -6,7 +6,7 @@ elif(day==2):
 elif(day==3):
     print("Today is Wednesday")
 elif(day==4):
-    print("Today is Thursday")
+    print("Today is Thursday!!!!")
 elif(day==5):
     print("Today is Friday")
 elif(day==6):

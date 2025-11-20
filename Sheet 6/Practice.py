@@ -1,0 +1,2 @@
+# Given an array of length N, your task is to find maximum possible sum of any non empty contiguous subarray, among all the 
+# possible subarrays of A, determine the one that yields the highest sum and return the sum
